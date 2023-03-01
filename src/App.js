@@ -14,11 +14,11 @@ function App() {
         </p>   My name is Paula Aidoo and I'm going to master React!
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/OfficialPaula"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check Me Out!
         </a>
       </header>
     </div>
