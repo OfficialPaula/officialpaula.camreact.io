@@ -1,5 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './paulaaidoo.PNG'
+//import logo from './logo.svg';
+
+
 
 function App() {
   return (
@@ -8,7 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p> My name is Paula Aidoo and I'm going to master React!
+        </p>My name is Paula Aidoo and I'm going to master React!
         <a
           className="App-link"
           href="https://reactjs.org"
