@@ -8,7 +8,8 @@ import { useState } from 'react';
 function App() {
   const [clickCount, setClickCount] = useState(0);
 
-  const handleClick = () => {
+  const handleClick = () => 
+  {
     setClickCount(clickCount + 1);
   };
   return (
